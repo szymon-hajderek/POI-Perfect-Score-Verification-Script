@@ -1,7 +1,6 @@
 # POI Perfect Score Verification Script
 
-This python script is used to find all the contestant to achieve a perfect score **four times** in the first stage of Polish Olympiad in Informatics.
-
+This python script is used to find all the contestant to have achieved a perfect score **four times** in the first stage of Polish Olympiad in Informatics.
 
 **Note:** *Editions 1 and 10 have no publicly available data.*
 
